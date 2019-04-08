@@ -1,0 +1,35 @@
+[
+  {
+    "id": "82ddb866-5e6d-4035-9f36-84c5665e7d3d",
+    "data": [
+      {
+        "text": "สวัสดีครับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8ff11b5-1c28-4030-9259-530b6715ef8b",
+    "data": [
+      {
+        "text": "เริ่มกันเลยไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1af00c3-a2b6-4709-b438-f24f7a19a73d",
+    "data": [
+      {
+        "text": "สวัสดีจ้ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "3f9d37ef-60a6-49b8-b0a4-309d4b02702f",
+  "name": "greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": [
+            "สวัสดี ช่วงนี้เป็นไงบ่้าง",
+            "สวัสดี สบายดีไหม",
+            "ฮายยยยยยย"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
